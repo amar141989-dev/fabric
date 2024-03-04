@@ -1,0 +1,13 @@
+Generate Token By Anchor Peer/Org
+Transfer Few token to org 2
+Get ownership from org 2
+
+Token
+    value
+    owner
+    tokenId
+
+TokenManager
+    GenerateToken(tokenValue, noOfTokens)
+    Transfer(tokenId, userId)
+    GetToken(value)
